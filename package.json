@@ -1,0 +1,18 @@
+{
+  "name": "mygoogleapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amelia Galgon",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "gapi": "0.0.3",
+    "googleapis": "^32.0.0"
+  }
+}
